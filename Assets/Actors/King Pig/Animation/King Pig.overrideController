@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: King Pig
+  m_Controller: {fileID: 9100000, guid: e60a7e40439d40f4ca805dae1ec8c188, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: b3095497ff1e7af49910c6aff39325c8, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d6c794213d525d546b805eba7157cd96, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 17a318c4d485ef947a4f57b798f1e615, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 736c1691e53aafb4ba6d40895e40c9bb, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 98232371c2c653d4993274729ade0084, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a58be320380fe5a469562d66ea98e1dd, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: acd785a5f5d89d3468ec592aca819788, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 78f02b44a5435af4f94269ce076807c1, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: f3b98f05df5a68345b52d070789ba48f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f616d273491ed2146923ec70f4e7cc5a, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 6e5a72e963d20864eb3fddd70943b0a1, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: fd04631c960415a429a9a63d2d0a0b53, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: b923895c3ec85c147815b37f64677e89, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5b1a61443d699e1429ce4a76847de42e, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 085cf631135dbbe4094cdcedabab2a34, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f7f074881fca1fe4c81672ebbe93be6d, type: 2}
