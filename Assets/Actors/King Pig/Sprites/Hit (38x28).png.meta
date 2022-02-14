@@ -131,9 +131,9 @@ TextureImporter:
       name: Hit (38x28)_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 5
         y: 0
-        width: 38
+        width: 28
         height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -152,9 +152,9 @@ TextureImporter:
       name: Hit (38x28)_1
       rect:
         serializedVersion: 2
-        x: 38
+        x: 43
         y: 0
-        width: 38
+        width: 28
         height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
